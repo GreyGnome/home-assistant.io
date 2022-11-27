@@ -5,6 +5,7 @@ body_id: getting_started
 show_title: true
 ---
 
+{% include getting-started/next_step.html step="Introduction" link="/introduction/" %}
 {% include getting-started/next_step.html step="Installation" link="/installation/" %}
 {% include getting-started/next_step.html step="Onboarding" link="/getting-started/onboarding/" %}
 {% include getting-started/next_step.html step="Automation" link="/getting-started/automation/" %}
